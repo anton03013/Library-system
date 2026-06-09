@@ -113,4 +113,4 @@ npm start
 
 ## License
 
-This project is developed for educational purposes as part of the IT Project Management course at Phenikaa University.
+This project is developed for educational purposes as part of the IT Project Management course at Phenikaa University!
